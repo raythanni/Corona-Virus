@@ -1,5 +1,7 @@
 The project used data that was extracted from CSSEDATA&GIS to be used for visualization that was done via tableau. 
-The datasets were wrangled using Python so that it could be used in a "long tabular form"
+The files used are the CSV files.
+The Python code files used the CSV files mentioned above.
+The datasets were wrangled using Python to be used in a "long tabular form" and not wide.
 
 
 
