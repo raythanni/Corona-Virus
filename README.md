@@ -1,3 +1,9 @@
+The project used data that was extracted from CSSEDATA&GIS to be used for visualization that was done via tableau. 
+The datasets were wrangled using Python so that it could be used in a "long tabular form"
+
+
+
+
 [Upcoming changes in time series tables (3/22)](https://github.com/CSSEGISandData/COVID-19/issues/1250)
 
 <b>---DEPRICATED WARNING---</b><br>
